@@ -1,2 +1,3 @@
 # bits
-Ideas, rants, and other digital noise
+
+If you are looking for some of my public discussions, go [here](https://github.com/jerluc/bits/discussions)!
